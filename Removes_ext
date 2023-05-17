@@ -1,0 +1,4 @@
+Open Powershell as Admin
+Run 
+cd C:\Users\$ENV:USERNAME\.vscode\extensions
+rm *
